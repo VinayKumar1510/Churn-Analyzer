@@ -85,7 +85,7 @@ Customer churn is one of the biggest challenges for subscription-based businesse
 churn-analysis/
 │
 ├── data/
-|    └── WA_Fn-UseC_-Telco-Customer-Churn
+|    └── WA_Fn-UseC_-Telco-Customer-Churn.csv
 ├── notebooks/
 │   └── churn_analysis.ipynb
 ├── sql/
