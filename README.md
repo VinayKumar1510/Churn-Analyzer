@@ -85,10 +85,12 @@ Customer churn is one of the biggest challenges for subscription-based businesse
 churn-analysis/
 │
 ├── data/
+|    └── WA_Fn-UseC_-Telco-Customer-Churn
 ├── notebooks/
 │   └── churn_analysis.ipynb
-├── src/
-├── visuals/
+├── sql/
+|    ├── schema.sql
+│    └── analysis.sql
 ├── .env
 ├── .gitignore
 └── README.md
